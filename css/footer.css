@@ -1,0 +1,36 @@
+.section-footer {
+    background-color: #2e2f42;
+    color: #ffffff;
+    width: 1440px;
+    
+    gap: 0px;
+    padding: 0px 100px;
+}
+
+.section-footer .logo {
+    color: #f4f4fd;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+}
+
+.section-footer .accent {
+    color: #4d5ae5;
+}
+
+.city-text {
+    color: #f4f4fd;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+}
+.section-footer a, 
+.section-footer p {
+    max-width: 264px;
+    height: 112px;
+    gap: 0px;
+    padding: 15px 0px;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 16px;
+}
