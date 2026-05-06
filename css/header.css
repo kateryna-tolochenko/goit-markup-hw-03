@@ -74,16 +74,3 @@
     display: block;
     padding: 24px 0;
 }
-.hero-title {
-    max-width: 496px;
-    margin: 0 auto 48px;
-}
-.hero-button {
-    border: none;
-    border-radius: 4px;
-}
-.container {
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
-}
