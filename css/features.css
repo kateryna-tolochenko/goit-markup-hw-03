@@ -5,7 +5,14 @@
 
 .features-list {
     display: flex;
-    flex-basis: 264px;
     gap: 24px;
 
+}
+
+.features-title {
+    margin-bottom: 8px;
+}
+
+.features-item {
+    flex-basis: calc((100% - 72px) / 4);
 }
