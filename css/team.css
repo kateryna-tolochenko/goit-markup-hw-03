@@ -2,10 +2,8 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     background-color: #f4f4fd;
-    width: 1440px;
-    height: 732px;
     gap: 0px;
-    padding: 0px 120px;
+    padding: 120px 0px;
 }
 
 .section-title {
@@ -39,8 +37,6 @@
 }
 
 .section-team ul {
-    width: 1156px;
-    height: 462px;
     gap: 72px;
     padding: 15px 0px;
     display: grid;

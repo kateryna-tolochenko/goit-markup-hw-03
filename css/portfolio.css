@@ -19,14 +19,10 @@
 
 }
 .portfolio {
-    width: 1440px;
-    height: 1240px;
-    padding: 0px 120px;
+    padding: 120px 0px;
     gap: 10px;
 }
 .portfolio ul {
-    width: 1158px;
-    height: 1000px;
     gap: 72px;
     padding: 15px 0px;
     display: grid;
