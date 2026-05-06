@@ -1,4 +1,4 @@
-portfolio {
+.portfolio {
     padding: 120px 0;
 }
 
@@ -6,4 +6,9 @@ portfolio {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+    display: block
+}
+
+.portfolio-item {
+     width: calc((100% - 24px) / 3);
 }

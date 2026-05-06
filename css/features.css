@@ -1,8 +1,11 @@
 .features-section {
     padding: 120px 0;
+
 }
 
 .features-list {
     display: flex;
+    flex-basis: 264px;
     gap: 24px;
+
 }
