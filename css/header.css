@@ -3,12 +3,14 @@
     background-color: #ffffff;
     border-bottom: 1px solid #E7E9FC;
     padding: 0px;
-    display:flex;
     gap: 40px;
-    justify-content: space-between;
-    align-items: center;
 }    
 
+.section-header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 .menu {
     display: flex;
     gap: 40px;

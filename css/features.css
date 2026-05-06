@@ -1,12 +1,9 @@
 .features {
-    height: 344px;
     padding: 120px 0px;
     gap: 24px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    border: 1px solid #ffffff;
-    
-   
+  
 }
 
 .features-title {
@@ -32,10 +29,9 @@
     letter-spacing: 0.02em;
     
 }
-.features ul {
-    
-    height: 104px;
-    padding: 15px 0px;
+.features {
+    padding: 120px 0px;
+    display: flex;
     gap: 24px;
     justify-content: center;
     align-items: center;

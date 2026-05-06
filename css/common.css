@@ -18,8 +18,9 @@ a {
       
 }
 .container {
-    width: 1440px;
-    margin: 0;
+    width: 1158px;
+        margin: 0 auto;
+        padding: 0 15px;
 
 }
 .sr-only {
