@@ -1,8 +1,6 @@
 .footer {
     background: #2e2f42;
-    color: #fff;
     padding: 100px 0;
-    margin: 16px; 
 }
 .logo {
     color: #fff;
@@ -15,4 +13,8 @@
     letter-spacing: 0.02em;
     color: #fff;
     max-width: 264px;
+}
+.footer .logo {
+    display: inline-block;
+    margin-bottom: 16px;
 }
