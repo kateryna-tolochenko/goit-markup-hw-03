@@ -1,25 +1,16 @@
 
-.section-header {
+.header-container {
     background-color: #ffffff;
-    border-bottom: 1px solid #E7E9FC;
-    padding: 0px;
-    gap: 40px;
-}    
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 
-.section-header .container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.menu {
-    display: flex;
-    gap: 40px;
-    justify-content: space-between; 
-    padding: 0px 0px;
-    align-items: center;
+    .menu {
+        display: flex;
+        gap: 40px;
+    }
 
-
-}
 .logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;

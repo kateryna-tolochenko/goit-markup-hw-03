@@ -1,38 +1,8 @@
-.features {
-    padding: 120px 0px;
-    gap: 24px;
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-  
+.features-section {
+    padding: 120px 0;
 }
 
-.features-title {
-    font-size: 36px;
-    text-align: center;
-    
-    
-
-}
-
-.features-subtitle {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    
-}
-
-.features-description {
-    font-size: 16px;
-    color: #434455;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    
-}
-.features {
-    padding: 120px 0px;
+.features-list {
     display: flex;
     gap: 24px;
-    justify-content: center;
-    align-items: center;
 }
