@@ -11,8 +11,18 @@
 
 .features-title {
     margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .features-item {
     flex-basis: calc((100% - 72px) / 4);
+}
+.features-text {
+    font-size: 16px;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }

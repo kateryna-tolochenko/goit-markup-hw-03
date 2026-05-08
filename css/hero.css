@@ -8,12 +8,21 @@
     color: #fff;
     font-size: 56px;
     margin-bottom: 48px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    color: #ffffff;
+    letter-spacing: 0.02em;
 }
 
 .hero-button {
-    background: #4d5ae5;
-    color: #fff;
     padding: 16px 32px;
+    background-color: #4d5ae5;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     cursor: pointer;
 }
 .hero-title {
@@ -30,4 +39,8 @@
     max-width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+}
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404bbf;
 }

@@ -5,17 +5,17 @@ ul {
 
 a {
     text-decoration: none;
+    color: inherit;
 }
 *,
 *::before,
 *::after {
     box-sizing: border-box;
-}
+}  
       
 body {
         font-family: 'Roboto', sans-serif;
-        color: #2e2f42;
-        background-color: #ffffff;
+       
     }
 
     .container {
@@ -45,4 +45,8 @@ ul{
 .section-title {
     text-align: center;
     margin-bottom: 72px;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    line-height: 1.11;
+
 }
