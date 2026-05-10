@@ -14,15 +14,17 @@ a {
 }  
       
 body {
-        font-family: 'Roboto', sans-serif;
-       
-    }
+    font-family: 'Roboto', sans-serif;
+    color: #2e2f42;
+    background-color: #ffffff;
+}
 
-    .container {
-        max-width: 1158px;
-        margin: 0 auto;
-        padding: 0 15px;
-    }
+ .container {
+    max-width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
 .sr-only {
     position: absolute;
     white-space: nowrap;
